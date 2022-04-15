@@ -1,6 +1,7 @@
 body{
     background-color: rgb(98, 20, 2);
     color: white;
+    font-family:Roboto;
 }
 .header__container{
     display: flex;
@@ -9,6 +10,8 @@ body{
 .header__list{
     display: flex;
     list-style-type: none;
+}
+.header__item{
     
 }
 .header__account{

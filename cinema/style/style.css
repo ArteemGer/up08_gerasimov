@@ -2,3 +2,16 @@ body{
     background-color: rgb(98, 20, 2);
     color: white;
 }
+.header__container{
+    display: flex;
+    justify-content: space-between;
+}
+.header__list{
+    display: flex;
+    list-style-type: none;
+    
+}
+.header__account{
+    display: flex;
+    align-items: center;
+}

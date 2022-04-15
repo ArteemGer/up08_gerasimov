@@ -6,12 +6,14 @@ body{
 .header__container{
     display: flex;
     justify-content: space-between;
+    max-width: 1200px;
 }
 .header__list{
     display: flex;
     list-style-type: none;
 }
 .header__item{
+    margin-left: 20px;
     
 }
 .header__account{
